@@ -1,0 +1,16 @@
+{
+  "packages": [
+    {
+      "url": "https://github.com/sileo-project/sileo/releases/download/v2.2.1/sileo_2.2.1_iphoneos-arm.deb",
+      "name": "Sileo"
+    },
+    {
+      "url": "https://github.com/zbra-zebra/zebra/releases/download/v1.1.6/zebra_1.1.6_iphoneos-arm.deb",
+      "name": "Zebra"
+    },
+    {
+      "url": "https://github.com/apt-browse/cydia/releases/download/v1.1.33/cydia_1.1.33_iphoneos-arm.deb",
+      "name": "Cydia"
+    }
+  ]
+}
